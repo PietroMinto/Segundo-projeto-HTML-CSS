@@ -6,3 +6,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
 <h3>Algumas imagens do projeto abaixo</h3>
+<img src="https://github.com/PietroMinto/We-take-care-of-your-pet/blob/master/img/Desktop%20Screenshot%202024.07.30%20-%2022.35.06.65.png?raw=true">
+<h3>Nesse projeto ainda não apliquei a responsividade, logo breve irei implementar</h3>
